@@ -1,0 +1,1 @@
+package co.edu.unac.poo1.procesos;public interface Madurado {    boolean tostar();    String getSerialProductos();    void verInformacion();}

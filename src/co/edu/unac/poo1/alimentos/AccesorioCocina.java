@@ -1,0 +1,1 @@
+package co.edu.unac.poo1.alimentos;public interface AccesorioCocina {    boolean hornear();}
